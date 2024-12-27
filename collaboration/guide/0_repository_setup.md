@@ -14,7 +14,8 @@ repository and configure it for collaboration:
   - Change your
     [repository description](https://stackoverflow.com/questions/7757751/how-do-you-change-a-repository-description-on-github)
   - Add or remove topics from your repository
-  - Update your main README with your group name and an initial overview of your project. (You can change this as much as you want.)
+  - Update your main README with your group name and an initial overview of
+    your project. (You can change this as much as you want.)
 - Under settings in your repository select:
   - _Issues_
   - _Projects_
