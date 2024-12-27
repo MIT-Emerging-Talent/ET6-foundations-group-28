@@ -49,7 +49,6 @@ However, the team is responsive on communication channels - whatsapp and slack.
 - Ahd : _2h_
 - Al-hassen: _2h_
 - Duha: _2h_
-- Ghyath: _2h_
 - Hamza:
 - Hassan:
 - Maab:
