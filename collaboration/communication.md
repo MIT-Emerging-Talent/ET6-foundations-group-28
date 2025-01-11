@@ -8,12 +8,12 @@ ______________________________________________________________________
 
 | **Day**   | **How**      | **Topic of Discussion**                  | **Link**                                      |
 |-----------|--------------|------------------------------------------|----------------------------------------------|
-| 20/12/24  | Google Meet  | Introduction and Group Norms for MIT Alpha | [Meeting Minutes 01](notes/meeting_minutes/01_meeting_minutes.md) |
-| 22/12/24  | Google Meet  | Repos, Issues, Branches and Collaboration Guide | [Meeting Minutes 02](notes/meeting_minutes/02_meeting_minutes.md) |
-| 27/12/24  | Google Meet  | ET CI Checks                              | [Meeting Minutes 03](notes/meeting_minutes/03_meeting_minutes.md) |
-| 31/12/24  | Google Meet  | ET CI Checks Project Board and Issues     | [Meeting Minutes 04](notes/meeting_minutes/04_meeting_minutes.md) |
-| 08/01/25  | Google Meet  | Project Board and Collaboration file revision | [Meeting Minutes 05](notes/meeting_minutes/05_meeting_minutes.md) |
-| 10/01/25  | Google Meet  | Group Checklist and Retrospective         | [Pending...] |
+| 20/12/24  | Google Meet  | Introduction and Group Norms for MIT Alpha | [Meeting Minutes 01](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-28/blob/main/notes/meeting_minutes/01_meeting_minutes.md) |
+| 22/12/24  | Google Meet  | Repos, Issues, Branches and Collaboration Guide | [Meeting Minutes 02](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-28/blob/main/notes/meeting_minutes/02_meeting_minutes.md) |
+| 27/12/24  | Google Meet  | ET CI Checks                              | [Meeting Minutes 03](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-28/blob/main/notes/meeting_minutes/03_meeting_minutes.md) |
+| 31/12/24  | Google Meet  | ET CI Checks Project Board and Issues     | [Meeting Minutes 04](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-28/blob/main/notes/meeting_minutes/04_meeting_minutes.md) |
+| 08/01/25  | Google Meet  | Project Board and Collaboration file revision | [Meeting Minutes 05](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-28/blob/main/notes/meeting_minutes/05_meeting_minutes.md) |
+| 10/01/25  | Google Meet  | Group Checklist and Retrospective         | [Meeting Minutes 06](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-28/blob/main/notes/meeting_minutes/06_meeting_minutes.md) |
 
 ## Communication Channels
 
