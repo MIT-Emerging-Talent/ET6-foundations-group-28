@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 find_smallest: Return the smallest number in a list.
 This module provides functionality to determine the smallest number in a given list of numbers.

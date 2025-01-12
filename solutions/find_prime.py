@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 find_prime
 A function that takes a number and returns True if the number is prime,
