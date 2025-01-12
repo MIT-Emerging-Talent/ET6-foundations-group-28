@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Module for finding the kth largest element in a list.
 This module provides a function to find the kth largest element in a list of strings,

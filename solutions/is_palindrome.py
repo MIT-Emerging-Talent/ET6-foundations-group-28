@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """is_palindrome: Check if a string is a palindrome.
 
 This module provides functionality to determine whether a given string

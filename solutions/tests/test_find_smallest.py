@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Test module for find_smallest implementation.
 This module contains unit tests for the find_smallest function using the unittest framework.
