@@ -18,7 +18,7 @@ team efforts, and ensure the project remains on track.
 -->
 - ### Project Deadline
   
-  Project Must be Completed by 10 Jan 2025.
+  Project Must be Completed by 12 Jan 2025.
 
 - ### Project Minimum Requirements
   
@@ -59,7 +59,7 @@ team efforts, and ensure the project remains on track.
 ## Internal Constraints: Voluntary
 
 - Each team member can solve a maximum of five challenges.
-- Deadline to meet the minimum requirement is 7 Jan 2025.
+- Deadline to meet the minimum requirement is 10 Jan 2025.
 <!--
   constraints that your team decided on to help scope the project. they may include:
   - coding style & conventions
