@@ -3,9 +3,10 @@
 > "In the midst of chaos, there is also opportunity."  
 > _Sun Tzu, The Art of War_
 
-**Deadline**
-_Finished all assigned tasks (challenges) on the 10th Jan_  
-_Finished retrospective (documentation) on the 11th Jan_
+## Deadline  
+
++ _Finished minimum requirements (two challenges) on the 10th Jan_.
++ _Finished retrospective (documentation) on the 11th Jan_.
 
 ## Stop Doing
 
@@ -20,14 +21,15 @@ _Mistakes, missed steps, or things that could have been better._
 
 + **Merging Branches with Failed CI Checks:**
 
-  Only 3 challenges were merged without passing all CI Checks. The checks were
-  fixed in the main branch after merging, but the pull requests still display failing
-  CI checks.
+  Three challenges were merged without passing all CI checks at the start of the
+  project. The checks were fixed in the main branch after merging, but the pull
+  requests still display failing CI checks as part of the commits history, which
+  is an immutable metadata of the merged pull request.
 
 + **Time Management Could Have Been Better:**
 
-  Delays in response time led to slower progress on interdependent tasks. We had
-  to extend the deadline of the minimum requirements as a result.
+  Delays in response time led to slower progress on interdependent tasks. As a result
+  of that, we had to extend the deadline of the minimum requirements.
 
 + **Wrong Branch Naming:**  
 
@@ -63,11 +65,8 @@ _Any good ideas to try out in the next project._
 Solutions can be reviewed by **more than one reviewer**; but merged by one;
 _to gain more insight from each other and have a better understanding of codes._
 + **Conventions**  
-Establish clear conventions at an early stage: Branch Naming, Issue Naming  
-Pull Request Titles, Commits Messages, Coding Style, etc.
-
-+ Branches can be linked to the issue they are addressing for better organization.
-
+  Establish clear conventions at an early stage: Branch Naming, Issue Naming,
+  Pull Request Titles, Commits Messages, Coding Style, etc.
 + Delete Branches after merging.
 + Add adequate description in pull requests.
 + Include synchronous code review in a video call meeting, whenever possible.
@@ -89,9 +88,12 @@ Major effect: In deadlines, CI checks, unexpected challenge difficulties.
   + A good grasp of asynchronous workflow and remote collaboration.
 + **Github usage**  
 
-  Gained expertise in using GitHub efficiently, leveraging its features for
-  better coordination, collaboration and professionalism.
-+ **Managed human resources effectively as a group.**
+  + Gained expertise in using GitHub efficiently, leveraging its features for
+   better coordination, collaboration and professionalism.
+  + Pull requests are associated with immutable metadata that cannot be changed.
++ Learned an edge case in Python doctest where the test fails in functions that
+  return multiline strings with newline characters.
++ Effective human resources management as a group.
 
 ______________________________________________________________________
 
@@ -100,22 +102,22 @@ ______________________________________________________________________
 ### What parts of your plan went as expected?
 
 + Completed the expected number of challenges.
-+ Use of labels on Issues and PRs organized things well.
++ Use of labels on Issues and PRs organized things well as expected.
 + Communication went as planned.
 + Collaboration went as planned.
-+ Individual and Group Goals were highly achieved.
++ Individual and group goals were achieved to a high degree.
 
 ### What parts of your plan did not work out?
 
 + Use of conventions wasn't implemented as expected.
 + CI Checks took a lot of time to be solved.
-+ Project Board Workflow: at the start wasn't utilized efficiently
-+ Time Management Expectations: Missed voluntary initial deadline
++ Project Board Workflow: at the start wasn't utilized efficiently.
++ Time Management Expectations: Missed the initial voluntary deadline.
 
 ### Did you need to add things that weren't in your strategy?
 
 + Solving CI checks issues by adding init.py files and installing ruff formatter.
-+ Minimum requirements voluntary deadline extension.
++ Extension of the minimum requirements voluntary deadline.
 
 ### Or remove extra steps?
 
